@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="7" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T15:43:37 BDT" name="Default suite" finished-at="2023-04-20T15:44:11 BDT" duration-ms="33593">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T15:43:37 BDT" name="Default test" finished-at="2023-04-20T15:44:11 BDT" duration-ms="33593">
+      <class name="locator.SQA_Task">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:locator.SQA_Task@8f2ef19]" started-at="2023-04-20T15:43:34 BDT" name="setDriver" finished-at="2023-04-20T15:43:37 BDT" duration-ms="3513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="Security_Settings()[pri:0, instance:locator.SQA_Task@8f2ef19]" started-at="2023-04-20T15:43:37 BDT" name="Security_Settings" finished-at="2023-04-20T15:44:11 BDT" duration-ms="33486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Security_Settings -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:locator.SQA_Task@8f2ef19]" started-at="2023-04-20T15:44:11 BDT" name="quitDriver" finished-at="2023-04-20T15:44:11 BDT" duration-ms="344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- locator.SQA_Task -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

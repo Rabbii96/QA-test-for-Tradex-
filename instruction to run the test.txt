@@ -1,0 +1,6 @@
+Install Java.
+Install Eclipse.
+1: Launch Eclipse
+2.Then Copy Automation (Using Selenium) file and put into Eclipe IDE beacuase its java project.
+3.Then go to src/test/java>locator>SQA_Task.java(here i test all modules)
+4.Run the test case by clicking run option on the test class.
